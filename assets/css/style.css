@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2C2C30;
+    font-family: 'Sarala', sans-serif;
+    text-align: center;
+}
+
+#balls {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+#container{
+    background-color:  #C6C7C4;
+    width: 680px;
+    margin: 82px auto;
+    padding-top: 35px;
+    padding-bottom: 192px;
+    border-radius: 20px;
+}
+
+#header {
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 35px;
+}
+
+#header a {
+    color:  #353B3C;
+    margin-left: 16px; 
+}
+
+#header #line {
+    width:  519px;
+    border: 1px solid #353B3C;
+
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+#main {
+    font-size: 24px;
+}
+
+span {
+    color: #F10E0E;
+    font-weight: bold;
+}
+
+.upper {
+    text-transform: uppercase;
+}
