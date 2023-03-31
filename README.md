@@ -1,7 +1,7 @@
 <h1 align="center">Challenge 01 CSS</h1>
 
 <p align="center">
- Uma das várias possíveis soluções do primeiro desafio do módulo de CSS do curso de programação web da Room
+ Uma das várias possíveis soluções do primeiro desafio do módulo de CSS do curso de programação web da Room.
 </p>
 
 <p align="center">
